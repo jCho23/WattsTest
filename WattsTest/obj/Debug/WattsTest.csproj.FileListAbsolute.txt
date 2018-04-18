@@ -1,0 +1,10 @@
+/Users/june/Projects/WattsTest/WattsTest/bin/Debug/WattsTest.dll
+/Users/june/Projects/WattsTest/WattsTest/bin/Debug/WattsTest.pdb
+/Users/june/Projects/WattsTest/WattsTest/bin/Debug/nunit.framework.dll
+/Users/june/Projects/WattsTest/WattsTest/bin/Debug/Xamarin.UITest.dll
+/Users/june/Projects/WattsTest/WattsTest/bin/Debug/nunit.framework.xml
+/Users/june/Projects/WattsTest/WattsTest/bin/Debug/Xamarin.UITest.xml
+/Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.csprojResolveAssemblyReference.cache
+/Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.csproj.CoreCompileInputs.cache
+/Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.dll
+/Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.pdb
