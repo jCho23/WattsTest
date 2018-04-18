@@ -1,15 +1,30 @@
 ﻿<Properties StartupConfiguration="{CE5201E3-EBF5-4923-B1C2-E28C027472F6}|Unit Tests">
-  <MonoDevelop.Ide.Workbench ActiveDocument="WattsTest/AppInitializer.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="WattsTest/Tests.cs">
     <Files>
-      <File FileName="WattsTest/Tests.cs" Line="1" Column="1" />
-      <File FileName="WattsTest/AppInitializer.cs" Line="30" Column="23" />
+      <File FileName="WattsTest/Tests.cs" Line="33" Column="6" />
+      <File FileName="WattsTest/AppInitializer.cs" Line="33" Column="13" />
     </Files>
+    <Pads>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="WattsTest" expanded="True">
+            <Node name="WattsTest" expanded="True">
+              <Node name="WattsTest" expanded="True">
+                <Node name="Tests(Android)" expanded="True">
+                  <Node name="Repl" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.ItemProperties.WattsTest PreferredExecutionTarget="MonoDevelop.Default" FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.WattsTest PreferredExecutionTarget="MonoDevelop.Default" />
   <MultiItemStartupConfigurations />
 </Properties>
