@@ -7,3 +7,4 @@
 /Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.csproj.CoreCompileInputs.cache
 /Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.dll
 /Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.pdb
+/Users/june/Projects/WattsTest/WattsTest/obj/Debug/WattsTest.csprojResolveAssemblyReference.cache
