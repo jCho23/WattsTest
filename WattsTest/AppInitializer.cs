@@ -27,7 +27,7 @@ namespace WattsTest
                     .Android
                     // TODO: Update this path to point to your Android app and uncomment the
                     // code if the app is not included in the solution.
-                    .ApkFile ("/Users/june/Desktop/APKs/Watts.apk")
+                    .ApkFile ("/Users/june/Desktop/APKs/Facebook.apk")
                     .StartApp();
             }
 
